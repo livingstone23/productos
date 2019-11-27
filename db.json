@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Reduxxx",
+      "precio": "300"
+    },
+    {
+      "id": 2,
+      "nombre": "Aprendiendo Office 2019",
+      "precio": "150"
+    },
+    {
+      "nombre": "Aprendiendo Redux 2",
+      "precio": 25,
+      "id": 3
+    },
+    {
+      "nombre": "Aprendiendo C Sharp 2019",
+      "precio": 18,
+      "id": 4
+    },
+    {
+      "nombre": "nuevo",
+      "precio": "30",
+      "id": 5
+    },
+    {
+      "nombre": "Libro 7",
+      "precio": "77",
+      "id": 7
+    }
+  ]
+}
